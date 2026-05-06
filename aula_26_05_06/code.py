@@ -6,7 +6,3 @@ print("-" * 3)
 
 for caractere in str:
     print(caractere)
-
-str2 = "@" + "bacaxi"
-print(str)
-print(str2)
