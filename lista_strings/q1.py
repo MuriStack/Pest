@@ -3,3 +3,7 @@ str = input("Digite uma palavra: ")
 
 for i in range (len(str)):
     print(str[i])
+#blablablablabla
+
+for i in range(len(str)):
+    print(str[i])
