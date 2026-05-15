@@ -3,3 +3,5 @@ str = input("Digite uma palavra: ")
 
 for i in range (len(str)):
     print(str[i])
+
+#achivement
