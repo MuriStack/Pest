@@ -1,3 +1,13 @@
+### 3. Removendo frutas
+
+# Crie uma lista contendo 5 frutas.
+
+# Peça ao usuário o nome de uma fruta.
+
+# Se a fruta estiver na lista, remova-a utilizando `remove()`.
+
+# Caso contrário, exiba uma mensagem informando que a fruta não foi encontrada.
+
 fruits = []
 
 for i in range(5):
