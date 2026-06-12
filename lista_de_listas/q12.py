@@ -1,4 +1,4 @@
-### 2. Lista de números
+### 12. Lista de números
 
 # Crie um programa que peça ao usuário vários números inteiros.
 
