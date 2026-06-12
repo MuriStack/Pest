@@ -1,3 +1,11 @@
+### 2. Lista de números
+
+# Crie um programa que peça ao usuário vários números inteiros.
+
+# O programa deve parar quando o usuário digitar `0`.
+
+# Ao final, exiba a lista com todos os números digitados, sem incluir o `0`.
+
 num = 1
 nums = []
 
