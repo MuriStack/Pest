@@ -1,3 +1,13 @@
+### 1. Cadastro de alunos
+
+# Crie um programa que leia 5 nomes de alunos e armazene todos em uma lista.
+
+# Ao final, exiba:
+
+# - A lista completa;
+# - O primeiro nome cadastrado;
+# - O último nome cadastrado.
+
 nomes = []
 
 for i in range(5):
