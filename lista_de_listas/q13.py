@@ -1,4 +1,4 @@
-### 3. Removendo frutas
+### 13. Removendo frutas
 
 # Crie uma lista contendo 5 frutas.
 
