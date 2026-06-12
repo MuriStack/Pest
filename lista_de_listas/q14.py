@@ -1,3 +1,9 @@
+### 14. Média das notas
+
+#Crie um programa que leia 4 notas de um aluno e armazene-as em uma lista.
+
+# Depois, calcule e exiba a média das notas.
+
 notas = []
 acc = 0
 
